@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sample-anime-1",
+    "title": "Jujutsu Kaisen",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-1.png"
+  },
+  {
+    "id": "sample-anime-2",
+    "title": "One Piece",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-2.png"
+  },
+  {
+    "id": "sample-anime-3",
+    "title": "Spy × Family",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-3.png"
+  },
+  {
+    "id": "sample-anime-4",
+    "title": "The Seven Deadly Sins",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-4.png"
+  },
+  {
+    "id": "sample-anime-5",
+    "title": "Dragon Ball Super",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-5.png"
+  },
+  {
+    "id": "sample-anime-6",
+    "title": "Demon Slayer",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-6.png"
+  },
+  {
+    "id": "sample-anime-7",
+    "title": "Detective Conan Case Closed",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-7.png"
+  },
+  {
+    "id": "sample-anime-8",
+    "title": "Solo Leveling",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-8.png"
+  },
+  {
+    "id": "sample-anime-9",
+    "title": "Attack on Titan",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-9.png"
+  },
+  {
+    "id": "sample-anime-10",
+    "title": "Frieren: Beyond Journey’s End",
+    "shelf": "Anime",
+    "pic": "posters/anime/anime-10.png"
+  }
+]
