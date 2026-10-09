@@ -4,4 +4,5 @@ window.YAFLIX_RATINGS = [
   { level: 3, name: "G", kids: true },
   { level: 4, name: "PG", kids: false },
   { level: 5, name: "PG-13", kids: false }
+  { level: 6, name: "R", kids: false }
 ];
